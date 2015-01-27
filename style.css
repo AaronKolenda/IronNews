@@ -1,7 +1,7 @@
 .container {
 	margin: 60px;
 	background-color:lightgrey;
-	height: 1600px;
+	height: 1800px;
 	width: 1200px;
 }
 
@@ -14,7 +14,7 @@
 	display: inline;
 	font-size: 20px;
 	line-height: 11px;
-	padding: 0px 10px;
+	padding: 0px 5px;
 	margin-top: 20px;
 }
 
@@ -63,6 +63,29 @@
 	margin-left: 18px;
 }
 
+.more {
+	display: inline;
+	font-size: 20px;
+	line-height: 11px;
+	padding: 0px 5px 10px;
+	margin-top: 20px;
+	margin-left: 77px;
+}
+
+.menu {
+	font-size: 16px;
+	display: inline-block;
+	border-right: 3px solid grey;
+	padding: 0px 10px;
+	margin: 10px auto;
+}
+
+.footer {
+	margin:auto;
+	text-align: center;
+	padding: 40px;
+}
+
 body {
 	font-family: verdana, sans-serif;
 }
@@ -70,6 +93,11 @@ body {
 ol {
 	font-size: 20px;
 	margin-left: 20px;
+}
+
+hr {
+	margin-top:20px;
+	border: 2px solid #505050;
 }
 
 
