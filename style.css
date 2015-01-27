@@ -38,7 +38,20 @@
 	float: right;
 }
 
+.site {
+	font-size: 16px;
+	color: grey;
+	display: inline;
+}
+
 body {
 	font-family: verdana, sans-serif;
 }
+
+ol {
+	font-size: 20px;
+}
+
+
+
 
