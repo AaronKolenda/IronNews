@@ -24,7 +24,11 @@
 	border-right: 3px solid white;
 }
 
-.floateft {
-	float: left;
+.floatright {
+	float: right;
+}
+
+body {
+	font-family: verdana, sans-serif;
 }
 
