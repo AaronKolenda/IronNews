@@ -1,7 +1,7 @@
 .container {
 	margin: 60px;
 	background-color:lightgrey;
-	height: 1800px;
+	height: 1700px;
 	width: 1200px;
 }
 
@@ -80,10 +80,24 @@
 	margin: 10px auto;
 }
 
+.contact {
+	font-size: 16px;
+	display: inline-block;
+	padding: 0px 10px;
+	margin: 0px auto;
+}
+
 .footer {
 	margin:auto;
 	text-align: center;
-	padding: 40px;
+	padding: 10px;
+}
+
+.search {
+	display: inline;
+	font-size: 20px;
+	color: grey;
+	margin-right: 0px;
 }
 
 body {
@@ -98,6 +112,11 @@ ol {
 hr {
 	margin-top:20px;
 	border: 2px solid #505050;
+}
+
+input[type="text"] {
+    width: 200px;
+    height: 20px;
 }
 
 
